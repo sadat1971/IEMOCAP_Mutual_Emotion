@@ -11,7 +11,8 @@ Create the turns from the utterance. The turn can be defined as ``` utterances o
 
 ## Step 3:
 
-To define and label emotion, we use two dimensional approach from valence and activation. The ![figure](images/Valence_activation_space.png) explains the process. 
+To define and label emotion, we use two dimensional approach from valence and activation. The figure explains it:
+![figure](images/Valence_activation_space.png)  
 
 ## Step 4:
 
